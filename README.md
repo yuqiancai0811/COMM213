@@ -35,8 +35,13 @@ This repository contains all assignments and projects for the COMM213 course, fo
 
 ## Projects
 
-### Project 1: Data Manipulation
-- Focus on data types and basic manipulation techniques
+### Project 1: Excel & Tableau Basics
+- Calculate averages
+- Create pivot tables
+- Remove duplicates
+- Use filters to find and count missing (blank) values
+- Perform filtering, sorting, mapping, and transposing data
+
 
 ### Project 2: Descriptive Analysis
 - Application of descriptive analysis techniques on sample data
