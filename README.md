@@ -35,7 +35,7 @@ This repository contains all assignments and projects for the COMM213 course, fo
 
 ## Projects
 
-### Project 1: Excel & Tableau Basics
+### Project 1: Excel Basics
 - Calculate averages
 - Create pivot tables
 - Remove duplicates
@@ -43,23 +43,66 @@ This repository contains all assignments and projects for the COMM213 course, fo
 - Perform filtering, sorting, mapping, and transposing data
 
 
-### Project 2: Descriptive Analysis
-- Application of descriptive analysis techniques on sample data
+### Project 2: Statistical Tools and Descriptive Statistics
+- **Excel:**
+  - Statistical tools for sampling using the RAND() function
+  - Descriptive statistics using Data Analysis Toolpak
+  - Create pivot tables to generate frequency distribution tables
+- **Tableau:**
+  - Use the summary card for descriptive statistics
+  - Create separate histograms
+  - Use filter boxplots for data visualization
 
 ### Project 3: Charts and Graphs
-- Creating various charts and graphs to visualize data
+- **Excel:**
+  - Bar chart
+  - Line graph (dual, combined axis)
+  - Pie chart
+  - Cluster bar chart
+  - Scatter plot
+- **Tableau:**
+  - Bar chart
+  - Line graph (dual, combined axis)
+  - Pie chart
+  - Cluster bar chart
+  - Scatter plot
+  - Create calculated fields
+  - Design similar visualizations as in Excel
 
-### Project 4: Advanced Formulas and Functions
-- Utilizing advanced Excel formulas and functions in practical scenarios
 
-### Project 5: Dashboards
-- Designing and developing an interactive Excel dashboard
+### Project 4: Advanced Excel Formulas and Interactive Dashboard Design
+- **Section 1: Excel References**
+  - Format as Table
+  - Data validation
+  - Conditional Statements and Logical Operators
+  - Lookups & Reference Functions
+  - Text Functions
+- **Section 2: Designing the Dashboard**
+  - Designing the first section: Borrower and loan information
+  - Designing the second section: Bar chart with slicer
+  - Designing the third section: A dynamic filled map
+  - General tips for dashboard design (Optional)
 
-### Project 6: Regression and Correlation Analysis
-- Performing regression and correlation analysis on provided data sets
+### Project 5: Advanced Tableau
+- **Section 1: Data Interpretation and Connections**
+  - Data Interpreter
+  - Connect to different data sources and close them
+  - Join Tables
+- **Section 2: More Charts, Dashboards, and Storyline**
+  - Bullet Chart
+  - Geographical Maps + Filters + Create Bins
+  - Sparklines + Calculated Fields
+  - Parameters
+  - Context Filter
+  - Dashboards
+  - Storyline
 
-### Project 7: Diagnostic Analysis
-- Conducting diagnostic analysis to identify and fix data issues
+### Project 6: Correlation and Regression Analysis
+- **Excel:**
+  - Correlation and regression analysis
+- **Tableau:**
+  - Correlation and regression analysis
+  - Forecasting time series data
 
 ## Getting Started
 
