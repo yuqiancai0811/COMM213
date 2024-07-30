@@ -80,24 +80,11 @@ This repository contains all assignments and projects for the COMM213 course, fo
 - **Section 2: Designing the Dashboard**
   - Designing the first section: Borrower and loan information
   - Designing the second section: Bar chart with slicer
-  - Designing the third section: A dynamic filled map
+  - Designing the third section: A dynamic-filled map
   - General tips for dashboard design (Optional)
 
-### Project 5: Advanced Tableau
-- **Section 1: Data Interpretation and Connections**
-  - Data Interpreter
-  - Connect to different data sources and close them
-  - Join Tables
-- **Section 2: More Charts, Dashboards, and Storyline**
-  - Bullet Chart
-  - Geographical Maps + Filters + Create Bins
-  - Sparklines + Calculated Fields
-  - Parameters
-  - Context Filter
-  - Dashboards
-  - Storyline
 
-### Project 6: Correlation and Regression Analysis
+### Project 5: Correlation and Regression Analysis
 - **Excel:**
   - Correlation and regression analysis
 - **Tableau:**
